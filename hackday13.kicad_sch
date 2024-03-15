@@ -3901,7 +3901,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "200 Ohm"
 			(at 252.73 107.95 90)
 			(effects
 				(font
@@ -3910,7 +3910,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 252.73 113.538 90)
 			(effects
 				(font
@@ -4037,7 +4037,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "200 Ohm"
 			(at 252.73 110.49 90)
 			(effects
 				(font
@@ -4046,7 +4046,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 252.73 116.078 90)
 			(effects
 				(font
@@ -4171,7 +4171,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "200 Ohm"
 			(at 252.73 105.41 90)
 			(effects
 				(font
@@ -4180,7 +4180,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 252.73 110.998 90)
 			(effects
 				(font
@@ -4653,7 +4653,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "200 Ohm"
 			(at 252.73 113.03 90)
 			(effects
 				(font
@@ -4662,7 +4662,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 252.73 118.618 90)
 			(effects
 				(font
@@ -5322,7 +5322,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "200 Ohm"
 			(at 252.73 115.57 90)
 			(effects
 				(font
@@ -5331,7 +5331,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 252.73 121.158 90)
 			(effects
 				(font
@@ -5465,7 +5465,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "custom_components_led_pcb:LED_dot_matrix_TA07-11SEKWA"
 			(at 237.49 109.22 0)
 			(effects
 				(font

@@ -1,0 +1,4 @@
+"Reference","Value","Datasheet","Footprint","Qty","DNP"
+"BT1","3V","~","Battery:BatteryHolder_Keystone_105_1x2430","1",""
+"D1","red","~","LED_THT:LED_D5.0mm","1",""
+"R1","1k","~","Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal","1",""

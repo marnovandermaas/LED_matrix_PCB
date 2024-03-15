@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "MCU_Module_RaspberryPi_Pico")(type "KiCad")(uri "${KIPRJMOD}/RaspberryPi_Pico/MCU_Module_RaspberryPi_Pico.kicad_sym")(options "")(descr ""))
   (lib (name "TinyTapeout")(type "KiCad")(uri "${KIPRJMOD}/tinytapeout-kicad-libs/symbols/TinyTapeout.kicad_sym")(options "")(descr ""))
+  (lib (name "custom_components_led_pcb")(type "KiCad")(uri "${KIPRJMOD}/custom_components_led_pcb.kicad_sym")(options "")(descr ""))
 )

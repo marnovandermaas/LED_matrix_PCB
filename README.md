@@ -58,9 +58,8 @@ Connect RUN pin to a normally-open momentary switch to GND to get a Reset button
 
 ## PCB schematic and design
 
-Here's the working [git repository](https://github.com/marnovandermaas/LED_matrix_PCB).
-
-We'll probably use a cheap PCB manufacturer like: https://www.pcbway.com/
+We'll probably use a cheap PCB manufacturer like: [JLC](https://jlcpcb.com/).
+Previously I had also considerd [PCB way](https://www.pcbway.com/).
 
 ## Farnell
 

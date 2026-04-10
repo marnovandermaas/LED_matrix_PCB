@@ -6,7 +6,7 @@ There will be a microcontroller that drives the LED matrix so it can also have a
 The PCB should be able to be powered externally as well as through a battery.
 The reason to want to use a battery is that it can then be used as a conference badge to display a name on.
 
-The PCB should connect to the Tiny Tapeout demo board.
+The PCB should connect to the Tiny Tapeout demo board, and specifically with [this factorizer design](https://github.com/marnovandermaas/tiny-factorizer/tree/main) that uses the bidirectional pins solely for output.
 
 ![pinout](https://github.com/TinyTapeout/tt-demo-pcb/blob/main/doc/img/tt-etr-dbv3p2-pinout.png)
 

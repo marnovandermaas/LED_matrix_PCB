@@ -65,15 +65,16 @@ Previously I had also considerd [PCB way](https://www.pcbway.com/).
 
 ## Farnell
 
-1x [Raspberry Pi Pico H](https://uk.farnell.com/raspberry-pi/raspberry-pi-pico-h/raspberry-pi-board-arm-cortex/dp/3996081)
-1x [LED Matrix](https://uk.farnell.com/kingbright/ta07-11sekwa/dot-matrix-0-7-cmn-anode-orange/dp/2080062)
-1x [Reset Switch](https://uk.farnell.com/te-connectivity-alcoswitch/1825910-3/tactile-switch-spst-0-05a-24v/dp/3406898)
-2x [Schottky Diode](https://uk.farnell.com/stmicroelectronics/bat48/diode-schottky-small-signal/dp/9801472)
-1x [DIP Switch](https://uk.farnell.com/te-connectivity/ade0204/switch-dil-2way/dp/1123936)
-1x [Battery Holder](https://uk.farnell.com/keystone/3002/battery-smd-retainer-20mm/dp/1650693)
-2x [PMOD Header](https://uk.farnell.com/amphenol-fci/10129382-912003blf/btb-conn-header-12pos-2row-2-54mm/dp/3497357)
-2x [RPi Pico Socket](https://uk.farnell.com/samtec/ces-120-01-t-s/receptacle-2-54mm-single-20way/dp/1667525)
-5x? [LED Resistors](https://uk.farnell.com/multicomp/mf25-200r/res-200r-1-250mw-axial-metal-film/dp/9341471) although may already have some.
+- 1x [Raspberry Pi Pico H](https://uk.farnell.com/raspberry-pi/raspberry-pi-pico-h/raspberry-pi-board-arm-cortex/dp/3996081)
+- 1x [LED Matrix](https://uk.farnell.com/kingbright/ta07-11sekwa/dot-matrix-0-7-cmn-anode-orange/dp/2080062)
+- 1x [Reset Switch](https://uk.farnell.com/te-connectivity-alcoswitch/1825910-3/tactile-switch-spst-0-05a-24v/dp/3406898)
+- 2x [Schottky Diode](https://uk.farnell.com/stmicroelectronics/bat48/diode-schottky-small-signal/dp/9801472)
+- 1x [DIP Switch](https://uk.farnell.com/te-connectivity/ade0204/switch-dil-2way/dp/1123936)
+- 1x [Battery Holder](https://uk.farnell.com/keystone/3002/battery-smd-retainer-20mm/dp/1650693)
+- 2x [PMOD Header](https://uk.farnell.com/amphenol-fci/10129382-912003blf/btb-conn-header-12pos-2row-2-54mm/dp/3497357)
+- 2x [RPi Pico Socket](https://uk.farnell.com/samtec/ces-120-01-t-s/receptacle-2-54mm-single-20way/dp/1667525)
+- 5x? [LED Resistors](https://uk.farnell.com/multicomp/mf25-200r/res-200r-1-250mw-axial-metal-film/dp/9341471) although may already have some.
+- 4x? [Green LEDs](https://uk.farnell.com/broadcom-limited/hlmp-3950/led-5mm-green/dp/1003226)
 
 ## Shift registers
 

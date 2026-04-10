@@ -12,14 +12,6 @@ The PCB should connect to the Tiny Tapeout demo board.
 
 ## Component Specs
 
-- RP2040
-    - <https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html>
-    - 30 GPIO pins
-    - GPIO + QSPI Imax = 50 mA **total**
-        - 50 mA source + 50 mA sink
-    - GPIO ~50 kOhm pull-up/down
-    - No built-in flash
-        - "Support for up to 16MB of off-chip Flash memory via dedicated QSPI bus"
 - RP Pico H
     - <https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html>
     - 26 GPIO pins

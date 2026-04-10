@@ -12,6 +12,8 @@ The PCB should connect to the Tiny Tapeout demo board.
 
 ## Component Specs
 
+Components should be through hole to ease soldering.
+
 - RP Pico H
     - <https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html>
     - 26 GPIO pins

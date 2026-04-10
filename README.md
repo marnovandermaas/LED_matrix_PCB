@@ -86,9 +86,9 @@ We'll probably use a cheap PCB manufacturer like: https://www.pcbway.com/
 
 To make sure we can drive all the PMOD input and output, we were thinking it's a good idea to use a shift register to save GPIO pins on the Pico. One thing Elliot mentioned was it would be good to have one full PMOD directly connected to the GPIO so that UART still works.
 
-8-bit parallel input to serial output: [MC14014B](https://uk.farnell.com/onsemi/mc14014bfelg/shift-register-8bit-55-to-125deg/dp/4185697), 8 inputs with 1 ouput and 2 control signals.
+8-bit parallel input to serial output: [TI SN74HC166N](https://uk.farnell.com/texas-instruments/sn74hc166n/ic-shift-register-dip16-7v/dp/3120860), 8 inputs with 1 ouput and 2 control signals.
 
-Serial input to 8-bit parallel output: [NEXPERIA 74HC595D](https://uk.farnell.com/nexperia/74hc595d-118/shift-register-8bit-125deg-c-soic/dp/1201269), 8 outputs with 1 input and 2 control signals.
+Serial input to 8-bit parallel output: [TI SN74HC595N](https://uk.farnell.com/texas-instruments/sn74hc595n/shift-register-8bit-85deg-c-pdip/dp/3120865), 8 outputs with 1 input and 2 control signals.
 
 Harry's tip: use 74-series logic to get good datasheets.
 
